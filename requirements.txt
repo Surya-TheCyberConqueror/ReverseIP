@@ -1,0 +1,9 @@
+# Reverse IP / Shared-IP OSINT Tool
+# Created by: cyb3rconqu3ror
+
+requests>=2.31.0
+dnspython>=2.6.1
+urllib3>=2.0.7
+certifi>=2024.2.2
+charset-normalizer>=3.3.2
+idna>=3.6
