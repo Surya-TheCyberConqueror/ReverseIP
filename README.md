@@ -76,3 +76,12 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Surya-TheCyberConqueror/ReverseIP.git
+
+cd ReverseIP
+
+chmod +x install.sh
+
+sudo ./install.sh
+
+reverseip
+
